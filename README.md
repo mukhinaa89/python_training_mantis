@@ -1,1 +1,2 @@
-# python_training_mantis
+# - Федя, Дичь!
+# - ДИЧЬ!
